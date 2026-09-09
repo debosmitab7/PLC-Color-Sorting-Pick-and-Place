@@ -36,6 +36,10 @@ corresponding red, blue, or green bin.
 - SIMATIC Manager
 - Ladder Logic
 
+## Project Files
+
+The `Project_Files` directory contains the Siemens STEP 7 project files.
+
 ## System Architecture
 
 ```text
