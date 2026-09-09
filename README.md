@@ -38,7 +38,7 @@ corresponding red, blue, or green bin.
 
 ## Project Files
 
-The `Project_Files` directory contains the Siemens STEP 7 project files.
+The `ProjFiles` directory contains the Siemens STEP 7 project files.
 
 ## System Architecture
 
